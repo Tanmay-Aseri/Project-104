@@ -1,0 +1,17 @@
+#result_object_name#result_object_accuracy{	
+    color: rgb(235, 17, 17);
+}
+
+.name_of_objects  {  
+      color:  rgb(235, 17, 17); 
+     }
+
+     .heading  {  
+           width: 80%; 
+             font-size: 22px;  
+            }
+
+            body{
+                color:white ; 
+                background: linear-gradient(#edff4c, #ddc03e, #e79d3c, #f0831e );
+            }
